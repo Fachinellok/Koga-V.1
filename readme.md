@@ -1,6 +1,6 @@
-# Bot ae que estou tentando criar, pode usar se quiser
+# Sistema de boas-vindas que estou tentando criar para o meu bot Kogarashi
 
-Um bot de sistema de boas-vindas fácil de configurar e usar para Discord.js com o pacote `canvas`
+Um sistema de boas-vindas fácil de configurar e usar para Discord.js com o pacote `canvas`
 
 Eu tenho tendência a abandonar projetos então bem provável que em algum momento isso aqui necessite de uma atualização e eu não atualize.
 
