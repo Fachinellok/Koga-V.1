@@ -10,9 +10,10 @@ welcome(client);
 //inicia o bot
 client.login(config.TOKEN);
 
-//NOTE:
+//Nota:
 /*
-THis is the config.json File
+
+Este é o arquivo config.json
 
  "TOKEN"           ... é o token do seu bot 
  "CHANNEL_WELCOME" ... é o id do chat onde o bot vai mandar a mensagem de bem-vindo
