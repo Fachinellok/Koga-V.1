@@ -1,13 +1,13 @@
-//define the libraries
+//definir as bibliotecas
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const config = require("./config.json");
-//when its ready log it
+//quando estiver pronto registre
 client.on("ready", ()=>console.log("READY"));
-//define welcome "package"
+//define o "package" de boas vindas
 const welcome = require("./welcome");
 welcome(client);
-//start the bot
+//inicia o bot
 client.login(config.TOKEN);
 
 //NOTE:
