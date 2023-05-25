@@ -14,9 +14,10 @@ client.login(config.TOKEN);
 /*
 THis is the config.json File
 
-"TOKEN"           ... is your Bot token
-"CHANNEL_WELCOME" ... is the Channel ID of your welcome channel
-"ROLES_WELCOME"   ... are all of the Role IDs you wanna add to the user when he joins the server, it must be an array and can be unlimited!
+ "TOKEN"           ... é o token do seu bot 
+ "CHANNEL_WELCOME" ... é o id do chat onde o bot vai mandar a mensagem de bem-vindo
+ "ROLES_WELCOME"   ... são todos os IDs de cargo que você deseja adicionar ao usuário quando ele entrar no servidor, deve ser um array e pode ser ilimitado!
+
 
 {
   "TOKEN":  "",
